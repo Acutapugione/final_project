@@ -1,0 +1,5 @@
+/.venv
+/.vscode
+/vendor
+**/__pycache__/
+**/migrations/
